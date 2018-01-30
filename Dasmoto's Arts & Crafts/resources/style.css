@@ -25,7 +25,7 @@ h2		{
 .paint h2	{
 		background-color: skyblue;
 }
-strong	{
+.price	{
 		font-family: Helvetica;
 		font-weight: bold;
 		color: blue;
