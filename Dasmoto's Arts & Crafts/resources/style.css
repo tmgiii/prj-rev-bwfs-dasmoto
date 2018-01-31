@@ -1,8 +1,8 @@
 html	{
-		font-family: Helvetica;
+		font-family: Helvetica, sans-serif;
 }
 h1	{
-		font-family: Helvetica;
+		font-family: Helvetica, sans-serif;
 		font-size: 100px;
 		font-weight: bold;
 		color: khaki;
@@ -11,7 +11,7 @@ h1	{
 		
 }
 h2		{
-		font-family: Helvetica;
+		font-family: Helvetica, sans-serif;
 		font-size: 32px;
 		font-weight: bold;
 		color: white;
@@ -26,7 +26,7 @@ h2		{
 		background-color: skyblue;
 }
 .price	{
-		font-family: Helvetica;
+		font-family: Helvetica, sans-serif;
 		font-weight: bold;
 		color: blue;
 }
